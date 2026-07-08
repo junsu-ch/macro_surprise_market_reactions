@@ -95,6 +95,14 @@ The results should be interpreted as a small-sample event-study analysis, not as
 - CPI releases may overlap with other macroeconomic events.
 - The sample size is limited to the CPI releases included in the dataset.
 
+## How to Run
+
+From the project root:
+
+```bash
+pip install -r requirements.txt
+python scripts/run_all.py
+```
 
 ## Disclaimer
 
